@@ -10,6 +10,4 @@ as from a CSV file
 * 1,3,5-7 : This sequence specifies that we want to extract columns 1, 3, 5, 6, and 7.
 * 1-5,7,22,25-29 : This sequence specifies that we want to extract columns 1, 2, 3, 4, 5, 7, 22, 25, 26,
 27, 28, and 29.
-#### The program will get its input from standard in. The input may have multiple lines, so the program should
-continue reading input until it receives an EOF indicating that the program may stop processing input lines and
-may complete and then exit / return.
+#### The program will get its input from standard in. The input may have multiple lines, so the program shouldcontinue reading input until it receives an EOF indicating that the program may stop processing input lines and may complete and then exit / return.
