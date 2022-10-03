@@ -1,6 +1,5 @@
 /*
 Name: Ali Sartaz Khan
-Course: CSc 352
 Description: Program reads in standard input where the first input is 
 the key word and the rest of the lines are lines that need to be encrypted.
 It then puts the ecrypted text as output.
