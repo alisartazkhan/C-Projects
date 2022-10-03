@@ -1,5 +1,5 @@
 # Project Description
-#### This program will be a simplified version of the cut commandthat can be found on many unix systems, including lectura. The cut command can be used for extractingparticular characters / columns of data from the standard input and print them to standard output. scut will have less configuration options compared to the regular command.
+#### This program will be a simplified version of the cut command that can be found on many unix systems, including lectura. The cut command can be used for extractingparticular characters / columns of data from the standard input and print them to standard output. scut will have less configuration options compared to the regular command.
 #### This program expects to have *exactly* two command-line arguments. The first is a flag that specifies what mode to run the program in. You must support three options.
 * -l stands for “letter” and specifies that the columns for the cut selections are on a per-character basis
 * -w stands for “whitespace” and specifies that the cut selection columns will be separated by any
