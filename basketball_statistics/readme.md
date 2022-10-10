@@ -1,6 +1,6 @@
 # Project Description
 #### Arrayz
-The purpose of this library is to have a collection of functionsthat can perform calculations on C arrays.
+The purpose of this library is to have a collection of functions that can perform calculations on C arrays.
 #### Basketball Stats
 This program will generate a reportabout NBA basketball players, based on data that it will read in from a text file. This program uses several functions 
 from the arrayz library. 
