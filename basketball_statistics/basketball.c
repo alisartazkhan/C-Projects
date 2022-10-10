@@ -1,6 +1,5 @@
 /*
 Name: Ali Sartaz Khan
-Course: CSc 352
 Description: Program iterates through the lines of a file and 
 finds data on particular players for each line. Using that data, 
 it compares data of all the players mentioned in the file and prints
