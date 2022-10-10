@@ -1,6 +1,5 @@
 /*
 Name: Ali Sartaz Khan
-Course: CSc 352
 Description: Header file instantiates methods for the arrayz.c file that
 performs several operations and calculations using data from an array.
 */
